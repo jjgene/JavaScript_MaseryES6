@@ -20,3 +20,5 @@ const banana = Fruit.makeRandomFruit();
 
 console.log(banana);
 console.log(Fruit.MAX_FRUITS);
+//콘솔을 찍어보면 static함수가 들어있지않다.
+//사용예제는 MATH라는 곳에 사용
